@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-08-12T19:31:07.057Z",
+  "moduleVersion": "1.0.1",
+  "status": "passed",
+  "foundry": {
+    "minimum": "13.347",
+    "verified": "13.351",
+    "maximum": "13"
+  },
+  "coreFoods": 335,
+  "mechanicalFoods": 155,
+  "errors": []
+}

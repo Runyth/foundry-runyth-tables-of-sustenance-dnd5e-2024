@@ -1,0 +1,2332 @@
+{
+  "schema": "runyth-tables-of-sustenance-dnd5e-2024.core-food-contract.v1",
+  "coreVersion": "1.1.0",
+  "foods": [
+    {
+      "sourceId": "food.velia.1.001.velia-salted-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.001.velia-salted-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.002.knot-orchard-sun-dried-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.002.knot-orchard-sun-dried-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.003.southbank-griddled-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.003.southbank-griddled-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.004.calpheon-layered-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.004.calpheon-layered-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.005.bellroot-hollow-dried-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.005.bellroot-hollow-dried-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.006.banner-road-salt-cured-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.006.banner-road-salt-cured-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.007.coldhammer-charred-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.007.coldhammer-charred-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.008.rootwatch-leaf-baked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.008.rootwatch-leaf-baked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.009.copper-shade-fermented-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.009.copper-shade-fermented-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.010.farwake-salt-fermented-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.010.farwake-salt-fermented-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.011.westkai-stewed-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.011.westkai-stewed-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.012.hainbund-farms-pressed-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.012.hainbund-farms-pressed-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.013.heidel-mustard-crusted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.013.heidel-mustard-crusted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.014.north-gate-wine-poached-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.014.north-gate-wine-poached-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.015.mist-garden-infused-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.015.mist-garden-infused-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.016.third-milestone-reconstituted-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.016.third-milestone-reconstituted-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.017.slate-cut-iron-griddled-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.017.slate-cut-iron-griddled-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.018.mosswater-stone-griddled-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.018.mosswater-stone-griddled-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.019.dustwell-water-sparing-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.019.dustwell-water-sparing-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.020.copper-bay-reef-smoked-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.020.copper-bay-reef-smoked-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.021.m-hlenbach-smoked-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.021.m-hlenbach-smoked-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.022.olvia-slow-baked-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.022.olvia-slow-baked-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.023.rivergate-malted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.023.rivergate-malted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.024.tax-quarter-stuffed-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.024.tax-quarter-stuffed-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.025.florin-cultured-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.025.florin-cultured-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.026.ashen-post-kettle-boiled-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.026.ashen-post-kettle-boiled-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.027.deep-lantern-pressure-stewed-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.027.deep-lantern-pressure-stewed-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.028.unbroken-green-earth-oven-cooked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.028.unbroken-green-earth-oven-cooked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.029.black-road-sun-dried-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.029.black-road-sun-dried-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.030.stormmarket-syrup-preserved-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.030.stormmarket-syrup-preserved-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.031.velia-air-dried-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.031.velia-air-dried-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.032.knot-orchard-stone-ground-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.032.knot-orchard-stone-ground-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.033.southbank-river-smoked-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.033.southbank-river-smoked-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.034.calpheon-fine-milled-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.034.calpheon-fine-milled-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.035.bellroot-hollow-stone-simmered-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.035.bellroot-hollow-stone-simmered-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.036.banner-road-compressed-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.036.banner-road-compressed-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.037.coldhammer-cellar-cured-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.037.coldhammer-cellar-cured-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.038.rootwatch-berry-cured-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.038.rootwatch-berry-cured-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.039.copper-shade-clay-pot-cooked-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.039.copper-shade-clay-pot-cooked-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.040.farwake-coconut-braised-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.040.farwake-coconut-braised-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.041.westkai-pan-seared-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.041.westkai-pan-seared-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.042.hainbund-farms-cider-braised-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.042.hainbund-farms-cider-braised-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.043.heidel-braised-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.043.heidel-braised-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.044.north-gate-clarified-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.044.north-gate-clarified-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.045.mist-garden-mortar-ground-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.045.mist-garden-mortar-ground-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.046.third-milestone-wax-sealed-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.046.third-milestone-wax-sealed-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.047.slate-cut-pickled-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.047.slate-cut-pickled-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.048.mosswater-resin-smoked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.048.mosswater-resin-smoked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.049.dustwell-sand-baked-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.049.dustwell-sand-baked-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.050.copper-bay-lime-cured-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.050.copper-bay-lime-cured-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.051.m-hlenbach-baked-under-coals-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.051.m-hlenbach-baked-under-coals-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.052.olvia-honeyed-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.052.olvia-honeyed-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.053.rivergate-pot-roasted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.053.rivergate-pot-roasted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.054.tax-quarter-glazed-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.054.tax-quarter-glazed-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.055.florin-herb-wrapped-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.055.florin-herb-wrapped-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.056.ashen-post-double-baked-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.056.ashen-post-double-baked-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.057.deep-lantern-pit-baked-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.057.deep-lantern-pit-baked-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.058.unbroken-green-dew-steeped-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.058.unbroken-green-dew-steeped-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.059.black-road-pressed-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.059.black-road-pressed-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.060.stormmarket-char-grilled-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.060.stormmarket-char-grilled-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.061.velia-pickled-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.061.velia-pickled-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.062.knot-orchard-fermented-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.062.knot-orchard-fermented-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.063.southbank-boiled-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.063.southbank-boiled-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.064.calpheon-butter-basted-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.064.calpheon-butter-basted-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.065.bellroot-hollow-steam-cooked-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.065.bellroot-hollow-steam-cooked-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.066.banner-road-rationed-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.066.banner-road-rationed-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.067.coldhammer-fat-sealed-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.067.coldhammer-fat-sealed-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.068.rootwatch-foraged-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.068.rootwatch-foraged-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.069.copper-shade-spice-rubbed-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.069.copper-shade-spice-rubbed-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.070.farwake-steam-wrapped-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.070.farwake-steam-wrapped-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.071.westkai-salted-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.071.westkai-salted-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.072.hainbund-farms-sun-dried-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.072.hainbund-farms-sun-dried-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.073.heidel-griddled-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.073.heidel-griddled-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.074.north-gate-layered-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.074.north-gate-layered-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.075.mist-garden-dried-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.075.mist-garden-dried-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.076.third-milestone-salt-cured-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.076.third-milestone-salt-cured-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.077.slate-cut-charred-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.077.slate-cut-charred-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.078.mosswater-leaf-baked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.078.mosswater-leaf-baked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.079.dustwell-fermented-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.079.dustwell-fermented-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.080.copper-bay-salt-fermented-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.080.copper-bay-salt-fermented-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.081.m-hlenbach-stewed-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.081.m-hlenbach-stewed-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.082.olvia-pressed-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.082.olvia-pressed-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.083.rivergate-mustard-crusted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.083.rivergate-mustard-crusted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.084.tax-quarter-wine-poached-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.084.tax-quarter-wine-poached-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.085.florin-infused-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.085.florin-infused-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.086.ashen-post-reconstituted-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.086.ashen-post-reconstituted-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.087.deep-lantern-iron-griddled-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.087.deep-lantern-iron-griddled-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.088.unbroken-green-stone-griddled-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.088.unbroken-green-stone-griddled-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.089.black-road-water-sparing-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.089.black-road-water-sparing-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.090.stormmarket-reef-smoked-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.090.stormmarket-reef-smoked-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.091.velia-smoked-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.091.velia-smoked-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.092.knot-orchard-slow-baked-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.092.knot-orchard-slow-baked-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.093.southbank-malted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.093.southbank-malted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.094.calpheon-stuffed-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.094.calpheon-stuffed-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.095.bellroot-hollow-cultured-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.095.bellroot-hollow-cultured-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.096.banner-road-kettle-boiled-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.096.banner-road-kettle-boiled-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.097.coldhammer-pressure-stewed-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.097.coldhammer-pressure-stewed-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.098.rootwatch-earth-oven-cooked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.098.rootwatch-earth-oven-cooked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.099.copper-shade-sun-dried-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.099.copper-shade-sun-dried-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.100.farwake-syrup-preserved-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.100.farwake-syrup-preserved-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.101.westkai-air-dried-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.101.westkai-air-dried-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.102.hainbund-farms-stone-ground-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.102.hainbund-farms-stone-ground-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.103.heidel-river-smoked-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.103.heidel-river-smoked-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.104.north-gate-fine-milled-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.104.north-gate-fine-milled-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.105.mist-garden-stone-simmered-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.105.mist-garden-stone-simmered-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.106.third-milestone-compressed-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.106.third-milestone-compressed-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.107.slate-cut-cellar-cured-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.107.slate-cut-cellar-cured-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.108.mosswater-berry-cured-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.108.mosswater-berry-cured-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.109.dustwell-clay-pot-cooked-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.109.dustwell-clay-pot-cooked-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.110.copper-bay-coconut-braised-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.110.copper-bay-coconut-braised-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.111.m-hlenbach-pan-seared-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.111.m-hlenbach-pan-seared-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.112.olvia-cider-braised-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.112.olvia-cider-braised-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.113.rivergate-braised-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.113.rivergate-braised-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.114.tax-quarter-clarified-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.114.tax-quarter-clarified-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.115.florin-mortar-ground-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.115.florin-mortar-ground-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.116.ashen-post-wax-sealed-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.116.ashen-post-wax-sealed-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.117.deep-lantern-pickled-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.117.deep-lantern-pickled-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.118.unbroken-green-resin-smoked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.118.unbroken-green-resin-smoked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.119.black-road-sand-baked-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.119.black-road-sand-baked-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.120.stormmarket-lime-cured-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.120.stormmarket-lime-cured-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.121.velia-baked-under-coals-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.121.velia-baked-under-coals-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.122.knot-orchard-honeyed-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.122.knot-orchard-honeyed-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.123.southbank-pot-roasted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.123.southbank-pot-roasted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.124.calpheon-glazed-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.124.calpheon-glazed-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.125.bellroot-hollow-herb-wrapped-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.125.bellroot-hollow-herb-wrapped-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.126.banner-road-double-baked-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.126.banner-road-double-baked-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.127.coldhammer-pit-baked-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.127.coldhammer-pit-baked-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.128.rootwatch-dew-steeped-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.128.rootwatch-dew-steeped-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.129.copper-shade-pressed-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.129.copper-shade-pressed-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.130.farwake-char-grilled-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.130.farwake-char-grilled-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.131.westkai-pickled-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.131.westkai-pickled-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.132.hainbund-farms-fermented-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.132.hainbund-farms-fermented-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.133.heidel-boiled-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.133.heidel-boiled-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.134.north-gate-butter-basted-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.134.north-gate-butter-basted-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.135.mist-garden-steam-cooked-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.135.mist-garden-steam-cooked-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.136.third-milestone-rationed-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.136.third-milestone-rationed-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.137.slate-cut-fat-sealed-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.137.slate-cut-fat-sealed-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.138.mosswater-foraged-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.138.mosswater-foraged-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.139.dustwell-spice-rubbed-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.139.dustwell-spice-rubbed-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.140.copper-bay-steam-wrapped-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.140.copper-bay-steam-wrapped-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.141.m-hlenbach-salted-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.141.m-hlenbach-salted-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.142.olvia-sun-dried-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.142.olvia-sun-dried-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.143.rivergate-griddled-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.143.rivergate-griddled-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.144.tax-quarter-layered-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.144.tax-quarter-layered-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.145.florin-dried-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.145.florin-dried-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.146.ashen-post-salt-cured-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.146.ashen-post-salt-cured-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.147.deep-lantern-charred-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.147.deep-lantern-charred-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.148.unbroken-green-leaf-baked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.148.unbroken-green-leaf-baked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.149.black-road-fermented-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.149.black-road-fermented-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.150.stormmarket-salt-fermented-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.150.stormmarket-salt-fermented-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.151.velia-stewed-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.151.velia-stewed-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.152.knot-orchard-pressed-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.152.knot-orchard-pressed-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.153.southbank-mustard-crusted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.153.southbank-mustard-crusted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.154.calpheon-wine-poached-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.154.calpheon-wine-poached-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.155.bellroot-hollow-infused-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.155.bellroot-hollow-infused-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.156.banner-road-reconstituted-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.156.banner-road-reconstituted-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.157.coldhammer-iron-griddled-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.157.coldhammer-iron-griddled-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.158.rootwatch-stone-griddled-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.158.rootwatch-stone-griddled-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.159.copper-shade-water-sparing-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.159.copper-shade-water-sparing-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.160.farwake-reef-smoked-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.160.farwake-reef-smoked-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.161.westkai-smoked-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.161.westkai-smoked-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.162.hainbund-farms-slow-baked-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.162.hainbund-farms-slow-baked-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.163.heidel-malted-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.163.heidel-malted-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.164.north-gate-stuffed-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.164.north-gate-stuffed-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.165.mist-garden-cultured-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.165.mist-garden-cultured-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.166.third-milestone-kettle-boiled-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.166.third-milestone-kettle-boiled-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.167.slate-cut-pressure-stewed-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.167.slate-cut-pressure-stewed-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.168.mosswater-earth-oven-cooked-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.168.mosswater-earth-oven-cooked-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.169.dustwell-sun-dried-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.169.dustwell-sun-dried-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.170.copper-bay-syrup-preserved-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.170.copper-bay-syrup-preserved-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.1.171.m-hlenbach-air-dried-herring-loaf",
+      "tier": "1",
+      "effectId": "effect.food.velia.1.171.m-hlenbach-air-dried-herring-loaf",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.olvia.1.172.olvia-stone-ground-hazelnut-broth",
+      "tier": "1",
+      "effectId": "effect.food.olvia.1.172.olvia-stone-ground-hazelnut-broth",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.heidel.1.173.rivergate-river-smoked-bean-dumpling",
+      "tier": "1",
+      "effectId": "effect.food.heidel.1.173.rivergate-river-smoked-bean-dumpling",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.calpheon.1.174.tax-quarter-fine-milled-river-crab-bowl",
+      "tier": "1",
+      "effectId": "effect.food.calpheon.1.174.tax-quarter-fine-milled-river-crab-bowl",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.florin.1.175.florin-stone-simmered-wild-garlic-pottage",
+      "tier": "1",
+      "effectId": "effect.food.florin.1.175.florin-stone-simmered-wild-garlic-pottage",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.imperial-roads.1.176.ashen-post-compressed-hardtack-pickle",
+      "tier": "1",
+      "effectId": "effect.food.imperial-roads.1.176.ashen-post-compressed-hardtack-pickle",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.northern-mines.1.177.deep-lantern-cellar-cured-cabbage-roll",
+      "tier": "1",
+      "effectId": "effect.food.northern-mines.1.177.deep-lantern-cellar-cured-cabbage-roll",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.evergreen-marches.1.178.unbroken-green-berry-cured-trout-custard",
+      "tier": "1",
+      "effectId": "effect.food.evergreen-marches.1.178.unbroken-green-berry-cured-trout-custard",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.black-desert-frontier.1.179.black-road-clay-pot-cooked-goat-ale",
+      "tier": "1",
+      "effectId": "effect.food.black-desert-frontier.1.179.black-road-clay-pot-cooked-goat-ale",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.distant-coasts.1.180.stormmarket-coconut-braised-black-bean-filled-bun",
+      "tier": "1",
+      "effectId": "effect.food.distant-coasts.1.180.stormmarket-coconut-braised-black-bean-filled-bun",
+      "intentKinds": []
+    },
+    {
+      "sourceId": "food.velia.2.001.velia-fortified-air-dried-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.001.velia-fortified-air-dried-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.002.knot-orchard-fortified-stone-ground-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.002.knot-orchard-fortified-stone-ground-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.003.southbank-fortified-river-smoked-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.003.southbank-fortified-river-smoked-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.004.calpheon-fortified-fine-milled-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.004.calpheon-fortified-fine-milled-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.005.bellroot-hollow-fortified-stone-simmered-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.005.bellroot-hollow-fortified-stone-simmered-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.006.banner-road-fortified-compressed-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.006.banner-road-fortified-compressed-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.007.coldhammer-fortified-cellar-cured-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.007.coldhammer-fortified-cellar-cured-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.008.rootwatch-fortified-berry-cured-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.008.rootwatch-fortified-berry-cured-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.009.copper-shade-fortified-clay-pot-cooked-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.009.copper-shade-fortified-clay-pot-cooked-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.010.farwake-fortified-coconut-braised-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.010.farwake-fortified-coconut-braised-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.2.011.westkai-fortified-pan-seared-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.011.westkai-fortified-pan-seared-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.012.hainbund-farms-fortified-cider-braised-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.012.hainbund-farms-fortified-cider-braised-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.013.heidel-fortified-braised-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.013.heidel-fortified-braised-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.014.north-gate-fortified-clarified-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.014.north-gate-fortified-clarified-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.015.mist-garden-fortified-mortar-ground-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.015.mist-garden-fortified-mortar-ground-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.016.third-milestone-fortified-wax-sealed-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.016.third-milestone-fortified-wax-sealed-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.017.slate-cut-fortified-pickled-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.017.slate-cut-fortified-pickled-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.018.mosswater-fortified-resin-smoked-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.018.mosswater-fortified-resin-smoked-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.019.dustwell-fortified-sand-baked-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.019.dustwell-fortified-sand-baked-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.020.copper-bay-fortified-lime-cured-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.020.copper-bay-fortified-lime-cured-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.2.021.m-hlenbach-fortified-baked-under-coals-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.021.m-hlenbach-fortified-baked-under-coals-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.022.olvia-fortified-honeyed-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.022.olvia-fortified-honeyed-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.023.rivergate-fortified-pot-roasted-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.023.rivergate-fortified-pot-roasted-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.024.tax-quarter-fortified-glazed-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.024.tax-quarter-fortified-glazed-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.025.florin-fortified-herb-wrapped-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.025.florin-fortified-herb-wrapped-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.026.ashen-post-fortified-double-baked-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.026.ashen-post-fortified-double-baked-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.027.deep-lantern-fortified-pit-baked-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.027.deep-lantern-fortified-pit-baked-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.028.unbroken-green-fortified-dew-steeped-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.028.unbroken-green-fortified-dew-steeped-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.029.black-road-fortified-pressed-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.029.black-road-fortified-pressed-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.030.stormmarket-fortified-char-grilled-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.030.stormmarket-fortified-char-grilled-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.2.031.velia-fortified-pickled-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.031.velia-fortified-pickled-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.032.knot-orchard-fortified-fermented-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.032.knot-orchard-fortified-fermented-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.033.southbank-fortified-boiled-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.033.southbank-fortified-boiled-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.034.calpheon-fortified-butter-basted-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.034.calpheon-fortified-butter-basted-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.035.bellroot-hollow-fortified-steam-cooked-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.035.bellroot-hollow-fortified-steam-cooked-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.036.banner-road-fortified-rationed-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.036.banner-road-fortified-rationed-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.037.coldhammer-fortified-fat-sealed-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.037.coldhammer-fortified-fat-sealed-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.038.rootwatch-fortified-foraged-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.038.rootwatch-fortified-foraged-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.039.copper-shade-fortified-spice-rubbed-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.039.copper-shade-fortified-spice-rubbed-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.040.farwake-fortified-steam-wrapped-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.040.farwake-fortified-steam-wrapped-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.2.041.westkai-fortified-salted-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.041.westkai-fortified-salted-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.042.hainbund-farms-fortified-sun-dried-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.042.hainbund-farms-fortified-sun-dried-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.043.heidel-fortified-griddled-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.043.heidel-fortified-griddled-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.044.north-gate-fortified-layered-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.044.north-gate-fortified-layered-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.045.mist-garden-fortified-dried-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.045.mist-garden-fortified-dried-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.046.third-milestone-fortified-salt-cured-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.046.third-milestone-fortified-salt-cured-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.047.slate-cut-fortified-charred-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.047.slate-cut-fortified-charred-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.048.mosswater-fortified-leaf-baked-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.048.mosswater-fortified-leaf-baked-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.049.dustwell-fortified-fermented-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.049.dustwell-fortified-fermented-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.050.copper-bay-fortified-salt-fermented-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.050.copper-bay-fortified-salt-fermented-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.2.051.m-hlenbach-fortified-stewed-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.051.m-hlenbach-fortified-stewed-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.052.olvia-fortified-pressed-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.052.olvia-fortified-pressed-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.053.rivergate-fortified-mustard-crusted-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.053.rivergate-fortified-mustard-crusted-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.054.tax-quarter-fortified-wine-poached-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.054.tax-quarter-fortified-wine-poached-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.055.florin-fortified-infused-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.055.florin-fortified-infused-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.056.ashen-post-fortified-reconstituted-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.056.ashen-post-fortified-reconstituted-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.057.deep-lantern-fortified-iron-griddled-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.057.deep-lantern-fortified-iron-griddled-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.058.unbroken-green-fortified-stone-griddled-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.058.unbroken-green-fortified-stone-griddled-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.059.black-road-fortified-water-sparing-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.059.black-road-fortified-water-sparing-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.060.stormmarket-fortified-reef-smoked-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.060.stormmarket-fortified-reef-smoked-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.2.061.velia-fortified-smoked-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.061.velia-fortified-smoked-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.062.knot-orchard-fortified-slow-baked-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.062.knot-orchard-fortified-slow-baked-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.063.southbank-fortified-malted-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.063.southbank-fortified-malted-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.064.calpheon-fortified-stuffed-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.064.calpheon-fortified-stuffed-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.065.bellroot-hollow-fortified-cultured-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.065.bellroot-hollow-fortified-cultured-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.066.banner-road-fortified-kettle-boiled-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.066.banner-road-fortified-kettle-boiled-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.067.coldhammer-fortified-pressure-stewed-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.067.coldhammer-fortified-pressure-stewed-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.068.rootwatch-fortified-earth-oven-cooked-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.068.rootwatch-fortified-earth-oven-cooked-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.069.copper-shade-fortified-sun-dried-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.069.copper-shade-fortified-sun-dried-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.070.farwake-fortified-syrup-preserved-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.070.farwake-fortified-syrup-preserved-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.2.071.westkai-fortified-air-dried-herring-loaf",
+      "tier": "2",
+      "effectId": "effect.food.velia.2.071.westkai-fortified-air-dried-herring-loaf",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.2.072.hainbund-farms-fortified-stone-ground-hazelnut-broth",
+      "tier": "2",
+      "effectId": "effect.food.olvia.2.072.hainbund-farms-fortified-stone-ground-hazelnut-broth",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.2.073.heidel-fortified-river-smoked-bean-dumpling",
+      "tier": "2",
+      "effectId": "effect.food.heidel.2.073.heidel-fortified-river-smoked-bean-dumpling",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.2.074.north-gate-fortified-fine-milled-river-crab-bowl",
+      "tier": "2",
+      "effectId": "effect.food.calpheon.2.074.north-gate-fortified-fine-milled-river-crab-bowl",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.2.075.mist-garden-fortified-stone-simmered-wild-garlic-pottage",
+      "tier": "2",
+      "effectId": "effect.food.florin.2.075.mist-garden-fortified-stone-simmered-wild-garlic-pottage",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.2.076.third-milestone-fortified-compressed-hardtack-pickle",
+      "tier": "2",
+      "effectId": "effect.food.imperial-roads.2.076.third-milestone-fortified-compressed-hardtack-pickle",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.2.077.slate-cut-fortified-cellar-cured-cabbage-roll",
+      "tier": "2",
+      "effectId": "effect.food.northern-mines.2.077.slate-cut-fortified-cellar-cured-cabbage-roll",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.2.078.mosswater-fortified-berry-cured-trout-custard",
+      "tier": "2",
+      "effectId": "effect.food.evergreen-marches.2.078.mosswater-fortified-berry-cured-trout-custard",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.2.079.dustwell-fortified-clay-pot-cooked-goat-ale",
+      "tier": "2",
+      "effectId": "effect.food.black-desert-frontier.2.079.dustwell-fortified-clay-pot-cooked-goat-ale",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.2.080.copper-bay-fortified-coconut-braised-black-bean-filled-bun",
+      "tier": "2",
+      "effectId": "effect.food.distant-coasts.2.080.copper-bay-fortified-coconut-braised-black-bean-filled-bun",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.3.001.velia-master-cooks-smoked-herring-salad",
+      "tier": "3",
+      "effectId": "effect.food.velia.3.001.velia-master-cooks-smoked-herring-salad",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.3.002.knot-orchard-master-cooks-slow-baked-hazelnut-tea",
+      "tier": "3",
+      "effectId": "effect.food.olvia.3.002.knot-orchard-master-cooks-slow-baked-hazelnut-tea",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.3.003.southbank-master-cooks-malted-bean-ration-brick",
+      "tier": "3",
+      "effectId": "effect.food.heidel.3.003.southbank-master-cooks-malted-bean-ration-brick",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.3.004.calpheon-master-cooks-stuffed-river-crab-griddle-cake",
+      "tier": "3",
+      "effectId": "effect.food.calpheon.3.004.calpheon-master-cooks-stuffed-river-crab-griddle-cake",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.3.005.bellroot-hollow-master-cooks-cultured-wild-garlic-stew",
+      "tier": "3",
+      "effectId": "effect.food.florin.3.005.bellroot-hollow-master-cooks-cultured-wild-garlic-stew",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.3.006.banner-road-master-cooks-kettle-boiled-hardtack-cake",
+      "tier": "3",
+      "effectId": "effect.food.imperial-roads.3.006.banner-road-master-cooks-kettle-boiled-hardtack-cake",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.3.007.coldhammer-master-cooks-pressure-stewed-cabbage-hash",
+      "tier": "3",
+      "effectId": "effect.food.northern-mines.3.007.coldhammer-master-cooks-pressure-stewed-cabbage-hash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.3.008.rootwatch-master-cooks-earth-oven-cooked-trout-flatbread",
+      "tier": "3",
+      "effectId": "effect.food.evergreen-marches.3.008.rootwatch-master-cooks-earth-oven-cooked-trout-flatbread",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.3.009.copper-shade-master-cooks-sun-dried-goat-relish",
+      "tier": "3",
+      "effectId": "effect.food.black-desert-frontier.3.009.copper-shade-master-cooks-sun-dried-goat-relish",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.3.010.farwake-master-cooks-syrup-preserved-black-bean-mash",
+      "tier": "3",
+      "effectId": "effect.food.distant-coasts.3.010.farwake-master-cooks-syrup-preserved-black-bean-mash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.3.011.westkai-master-cooks-air-dried-herring-salad",
+      "tier": "3",
+      "effectId": "effect.food.velia.3.011.westkai-master-cooks-air-dried-herring-salad",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.3.012.hainbund-farms-master-cooks-stone-ground-hazelnut-tea",
+      "tier": "3",
+      "effectId": "effect.food.olvia.3.012.hainbund-farms-master-cooks-stone-ground-hazelnut-tea",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.3.013.heidel-master-cooks-river-smoked-bean-ration-brick",
+      "tier": "3",
+      "effectId": "effect.food.heidel.3.013.heidel-master-cooks-river-smoked-bean-ration-brick",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.3.014.north-gate-master-cooks-fine-milled-river-crab-griddle-cake",
+      "tier": "3",
+      "effectId": "effect.food.calpheon.3.014.north-gate-master-cooks-fine-milled-river-crab-griddle-cake",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.3.015.mist-garden-master-cooks-stone-simmered-wild-garlic-stew",
+      "tier": "3",
+      "effectId": "effect.food.florin.3.015.mist-garden-master-cooks-stone-simmered-wild-garlic-stew",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.3.016.third-milestone-master-cooks-compressed-hardtack-cake",
+      "tier": "3",
+      "effectId": "effect.food.imperial-roads.3.016.third-milestone-master-cooks-compressed-hardtack-cake",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.3.017.slate-cut-master-cooks-cellar-cured-cabbage-hash",
+      "tier": "3",
+      "effectId": "effect.food.northern-mines.3.017.slate-cut-master-cooks-cellar-cured-cabbage-hash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.3.018.mosswater-master-cooks-berry-cured-trout-flatbread",
+      "tier": "3",
+      "effectId": "effect.food.evergreen-marches.3.018.mosswater-master-cooks-berry-cured-trout-flatbread",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.3.019.dustwell-master-cooks-clay-pot-cooked-goat-relish",
+      "tier": "3",
+      "effectId": "effect.food.black-desert-frontier.3.019.dustwell-master-cooks-clay-pot-cooked-goat-relish",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.3.020.copper-bay-master-cooks-coconut-braised-black-bean-mash",
+      "tier": "3",
+      "effectId": "effect.food.distant-coasts.3.020.copper-bay-master-cooks-coconut-braised-black-bean-mash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.3.021.m-hlenbach-master-cooks-pan-seared-herring-salad",
+      "tier": "3",
+      "effectId": "effect.food.velia.3.021.m-hlenbach-master-cooks-pan-seared-herring-salad",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.3.022.olvia-master-cooks-cider-braised-hazelnut-tea",
+      "tier": "3",
+      "effectId": "effect.food.olvia.3.022.olvia-master-cooks-cider-braised-hazelnut-tea",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.3.023.rivergate-master-cooks-braised-bean-ration-brick",
+      "tier": "3",
+      "effectId": "effect.food.heidel.3.023.rivergate-master-cooks-braised-bean-ration-brick",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.3.024.tax-quarter-master-cooks-clarified-river-crab-griddle-cake",
+      "tier": "3",
+      "effectId": "effect.food.calpheon.3.024.tax-quarter-master-cooks-clarified-river-crab-griddle-cake",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.3.025.florin-master-cooks-mortar-ground-wild-garlic-stew",
+      "tier": "3",
+      "effectId": "effect.food.florin.3.025.florin-master-cooks-mortar-ground-wild-garlic-stew",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.3.026.ashen-post-master-cooks-wax-sealed-hardtack-cake",
+      "tier": "3",
+      "effectId": "effect.food.imperial-roads.3.026.ashen-post-master-cooks-wax-sealed-hardtack-cake",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.3.027.deep-lantern-master-cooks-pickled-cabbage-hash",
+      "tier": "3",
+      "effectId": "effect.food.northern-mines.3.027.deep-lantern-master-cooks-pickled-cabbage-hash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.3.028.unbroken-green-master-cooks-resin-smoked-trout-flatbread",
+      "tier": "3",
+      "effectId": "effect.food.evergreen-marches.3.028.unbroken-green-master-cooks-resin-smoked-trout-flatbread",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.3.029.black-road-master-cooks-sand-baked-goat-relish",
+      "tier": "3",
+      "effectId": "effect.food.black-desert-frontier.3.029.black-road-master-cooks-sand-baked-goat-relish",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.3.030.stormmarket-master-cooks-lime-cured-black-bean-mash",
+      "tier": "3",
+      "effectId": "effect.food.distant-coasts.3.030.stormmarket-master-cooks-lime-cured-black-bean-mash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.3.031.velia-master-cooks-baked-under-coals-herring-salad",
+      "tier": "3",
+      "effectId": "effect.food.velia.3.031.velia-master-cooks-baked-under-coals-herring-salad",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.3.032.knot-orchard-master-cooks-honeyed-hazelnut-tea",
+      "tier": "3",
+      "effectId": "effect.food.olvia.3.032.knot-orchard-master-cooks-honeyed-hazelnut-tea",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.3.033.southbank-master-cooks-pot-roasted-bean-ration-brick",
+      "tier": "3",
+      "effectId": "effect.food.heidel.3.033.southbank-master-cooks-pot-roasted-bean-ration-brick",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.3.034.calpheon-master-cooks-glazed-river-crab-griddle-cake",
+      "tier": "3",
+      "effectId": "effect.food.calpheon.3.034.calpheon-master-cooks-glazed-river-crab-griddle-cake",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.3.035.bellroot-hollow-master-cooks-herb-wrapped-wild-garlic-stew",
+      "tier": "3",
+      "effectId": "effect.food.florin.3.035.bellroot-hollow-master-cooks-herb-wrapped-wild-garlic-stew",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.3.036.banner-road-master-cooks-double-baked-hardtack-cake",
+      "tier": "3",
+      "effectId": "effect.food.imperial-roads.3.036.banner-road-master-cooks-double-baked-hardtack-cake",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.3.037.coldhammer-master-cooks-pit-baked-cabbage-hash",
+      "tier": "3",
+      "effectId": "effect.food.northern-mines.3.037.coldhammer-master-cooks-pit-baked-cabbage-hash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.3.038.rootwatch-master-cooks-dew-steeped-trout-flatbread",
+      "tier": "3",
+      "effectId": "effect.food.evergreen-marches.3.038.rootwatch-master-cooks-dew-steeped-trout-flatbread",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.3.039.copper-shade-master-cooks-pressed-goat-relish",
+      "tier": "3",
+      "effectId": "effect.food.black-desert-frontier.3.039.copper-shade-master-cooks-pressed-goat-relish",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.3.040.farwake-master-cooks-char-grilled-black-bean-mash",
+      "tier": "3",
+      "effectId": "effect.food.distant-coasts.3.040.farwake-master-cooks-char-grilled-black-bean-mash",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.3.041.westkai-master-cooks-pickled-herring-salad",
+      "tier": "3",
+      "effectId": "effect.food.velia.3.041.westkai-master-cooks-pickled-herring-salad",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.3.042.hainbund-farms-master-cooks-fermented-hazelnut-tea",
+      "tier": "3",
+      "effectId": "effect.food.olvia.3.042.hainbund-farms-master-cooks-fermented-hazelnut-tea",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.3.043.heidel-master-cooks-boiled-bean-ration-brick",
+      "tier": "3",
+      "effectId": "effect.food.heidel.3.043.heidel-master-cooks-boiled-bean-ration-brick",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.3.044.north-gate-master-cooks-butter-basted-river-crab-griddle-cake",
+      "tier": "3",
+      "effectId": "effect.food.calpheon.3.044.north-gate-master-cooks-butter-basted-river-crab-griddle-cake",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.3.045.mist-garden-master-cooks-steam-cooked-wild-garlic-stew",
+      "tier": "3",
+      "effectId": "effect.food.florin.3.045.mist-garden-master-cooks-steam-cooked-wild-garlic-stew",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.4.001.banner-march-ox-course",
+      "tier": "4",
+      "effectId": "effect.food.heidel.4.001.banner-march-ox-course",
+      "intentKinds": [
+        "movement-speed-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.4.002.coldhammer-deep-fire-supper",
+      "tier": "4",
+      "effectId": "effect.food.northern-mines.4.002.coldhammer-deep-fire-supper",
+      "intentKinds": [
+        "damage-resistance"
+      ]
+    },
+    {
+      "sourceId": "food.florin.4.003.florin-clear-breath-banquet",
+      "tier": "4",
+      "effectId": "effect.food.florin.4.003.florin-clear-breath-banquet",
+      "intentKinds": [
+        "resistance-test-bonus",
+        "concentration-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.4.004.westkai-storm-table",
+      "tier": "4",
+      "effectId": "effect.food.velia.4.004.westkai-storm-table",
+      "intentKinds": [
+        "damage-resistance"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.4.005.calpheon-twelve-layer-vigil",
+      "tier": "4",
+      "effectId": "effect.food.calpheon.4.005.calpheon-twelve-layer-vigil",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.4.006.rootwatch-hunters-concord",
+      "tier": "4",
+      "effectId": "effect.food.evergreen-marches.4.006.rootwatch-hunters-concord",
+      "intentKinds": [
+        "check-bonus",
+        "ignore-difficult-terrain"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.4.007.dustwell-watermasters-course",
+      "tier": "4",
+      "effectId": "effect.food.black-desert-frontier.4.007.dustwell-watermasters-course",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.4.008.farwake-reef-captain-feast",
+      "tier": "4",
+      "effectId": "effect.food.distant-coasts.4.008.farwake-reef-captain-feast",
+      "intentKinds": [
+        "movement-speed-match",
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.4.009.olvian-first-press-wedding-table",
+      "tier": "4",
+      "effectId": "effect.food.olvia.4.009.olvian-first-press-wedding-table",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.4.010.ashen-post-night-convoy-meal",
+      "tier": "4",
+      "effectId": "effect.food.imperial-roads.4.010.ashen-post-night-convoy-meal",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.4.011.salt-hand-founders-kettle",
+      "tier": "4",
+      "effectId": "effect.food.velia.4.011.salt-hand-founders-kettle",
+      "intentKinds": [
+        "damage-resistance"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.4.012.grove-league-autumn-reckoning",
+      "tier": "4",
+      "effectId": "effect.food.olvia.4.012.grove-league-autumn-reckoning",
+      "intentKinds": [
+        "resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.4.013.river-warden-flood-supper",
+      "tier": "4",
+      "effectId": "effect.food.heidel.4.013.river-warden-flood-supper",
+      "intentKinds": [
+        "movement-speed-bonus",
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.4.014.revenue-hall-unbroken-course",
+      "tier": "4",
+      "effectId": "effect.food.calpheon.4.014.revenue-hall-unbroken-course",
+      "intentKinds": [
+        "check-bonus",
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.4.015.bellroot-red-thread-supper",
+      "tier": "4",
+      "effectId": "effect.food.florin.4.015.bellroot-red-thread-supper",
+      "intentKinds": [
+        "damage-resistance"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.4.016.third-milestone-forced-march-breakfast",
+      "tier": "4",
+      "effectId": "effect.food.imperial-roads.4.016.third-milestone-forced-march-breakfast",
+      "intentKinds": [
+        "movement-speed-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.4.017.deep-lantern-rescue-table",
+      "tier": "4",
+      "effectId": "effect.food.northern-mines.4.017.deep-lantern-rescue-table",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.4.018.mosswater-boundary-supper",
+      "tier": "4",
+      "effectId": "effect.food.evergreen-marches.4.018.mosswater-boundary-supper",
+      "intentKinds": [
+        "resistance-test-bonus",
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.4.019.copper-shade-sun-return-feast",
+      "tier": "4",
+      "effectId": "effect.food.black-desert-frontier.4.019.copper-shade-sun-return-feast",
+      "intentKinds": [
+        "damage-resistance"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.4.020.stormmarket-customs-banquet",
+      "tier": "4",
+      "effectId": "effect.food.distant-coasts.4.020.stormmarket-customs-banquet",
+      "intentKinds": [
+        "check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.evergreen-marches.s.001.heartseed-of-the-unbroken-green",
+      "tier": "S",
+      "effectId": "legendary.heartseed-of-the-unbroken-green",
+      "intentKinds": [
+        "maximum-vitality-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.olvia.s.002.ashen-moon-pear",
+      "tier": "S",
+      "effectId": "legendary.ashen-moon-pear",
+      "intentKinds": [
+        "contextual-resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.velia.s.003.salt-crown-oyster",
+      "tier": "S",
+      "effectId": "legendary.salt-crown-oyster",
+      "intentKinds": [
+        "contextual-resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.florin.s.004.bellroot-of-the-silent-physician",
+      "tier": "S",
+      "effectId": "legendary.bellroot-of-the-silent-physician",
+      "intentKinds": [
+        "contextual-check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.black-desert-frontier.s.005.starfall-grain",
+      "tier": "S",
+      "effectId": "legendary.starfall-grain",
+      "intentKinds": [
+        "rest-recovery-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.imperial-roads.s.006.last-loaf-of-saint-othmar",
+      "tier": "S",
+      "effectId": "legendary.last-loaf-of-saint-othmar",
+      "intentKinds": [
+        "contextual-resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.northern-mines.s.007.emberhorn-marrow-pearl",
+      "tier": "S",
+      "effectId": "legendary.emberhorn-marrow-pearl",
+      "intentKinds": [
+        "maximum-vitality-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.calpheon.s.008.memoryless-plum-preserve",
+      "tier": "S",
+      "effectId": "legendary.memoryless-plum-preserve",
+      "intentKinds": [
+        "contextual-check-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.distant-coasts.s.009.gravewinter-tea",
+      "tier": "S",
+      "effectId": "legendary.gravewinter-tea",
+      "intentKinds": [
+        "contextual-resistance-test-bonus"
+      ]
+    },
+    {
+      "sourceId": "food.heidel.s.010.black-glass-honey",
+      "tier": "S",
+      "effectId": "legendary.black-glass-honey",
+      "intentKinds": [
+        "contextual-resistance-test-bonus"
+      ]
+    }
+  ]
+}

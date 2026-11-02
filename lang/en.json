@@ -1,0 +1,14 @@
+{
+  "runyth-tables-of-sustenance-dnd5e-2024": {
+    "Errors": {
+      "WrongSystem": "Tables of Sustenance - D&D 5e 2024 can only run in a D&D Fifth Edition world.",
+      "CoreMissing": "Tables of Sustenance core v1.1.0 or newer is required.",
+      "NotContextual": "This permanent food benefit is automatic or passive and does not need to be primed."
+    },
+    "Benefits": {
+      "Applied": "Applied +{bonus} from {name} to this roll.",
+      "RestHealingApplied": "{actor} regains {amount} additional Hit Point from legendary sustenance during the Short Rest.",
+      "FallbackName": "Food benefit"
+    }
+  }
+}

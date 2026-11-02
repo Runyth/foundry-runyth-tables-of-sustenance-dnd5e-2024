@@ -1,0 +1,62 @@
+{
+  "id": "runyth-tables-of-sustenance-dnd5e-2024",
+  "title": "Runyth Tables of Sustenance - D&D 5e 2024",
+  "description": "D&D 5e 2024 system implementation for the system-neutral Runyth Tables of Sustenance core module.",
+  "version": "1.0.1",
+  "authors": [
+    {
+      "name": "Runyth"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13.347",
+    "verified": "13.351",
+    "maximum": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.3.0",
+          "verified": "5.3.3"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "runyth-tables-of-sustenance",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.1.0",
+          "verified": "1.1.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/runyth-tables-of-sustenance-dnd5e-2024.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "bugs": ""
+}

@@ -1,0 +1,134 @@
+
+> runyth-tables-of-sustenance-dnd5e-2024@1.0.1 test
+> node --test tests/*.test.mjs
+
+TAP version 13
+# Subtest: materializes a neutral food into a D&D 5e consumable without duplicating canonical lore
+ok 1 - materializes a neutral food into a D&D 5e consumable without duplicating canonical lore
+  ---
+  duration_ms: 2.022329
+  type: 'test'
+  ...
+# Subtest: maps neutral effect intents to D&D 5e Active Effect changes
+ok 2 - maps neutral effect intents to D&D 5e Active Effect changes
+  ---
+  duration_ms: 1.214728
+  type: 'test'
+  ...
+# Subtest: uses hp.tempmax for permanent maximum-vitality bonuses
+ok 3 - uses hp.tempmax for permanent maximum-vitality bonuses
+  ---
+  duration_ms: 0.5799
+  type: 'test'
+  ...
+# Subtest: declares handlers for every built-in neutral intent kind
+ok 4 - declares handlers for every built-in neutral intent kind
+  ---
+  duration_ms: 1.468643
+  type: 'test'
+  ...
+# Subtest: requires the system-neutral core and D&D 5e 5.3
+ok 5 - requires the system-neutral core and D&D 5e 5.3
+  ---
+  duration_ms: 2.107232
+  type: 'test'
+  ...
+# Subtest: covers all core foods while only 155 require mechanical intent handling
+ok 6 - covers all core foods while only 155 require mechanical intent handling
+  ---
+  duration_ms: 0.459448
+  type: 'test'
+  ...
+# Subtest: resolves the D&D 5.3 actor from config.subject
+ok 7 - resolves the D&D 5.3 actor from config.subject
+  ---
+  duration_ms: 9.009968
+  type: 'test'
+  ...
+# Subtest: supports a narrow Midi-QOL workflow actor fallback
+ok 8 - supports a narrow Midi-QOL workflow actor fallback
+  ---
+  duration_ms: 0.578568
+  type: 'test'
+  ...
+# Subtest: ignores non-Actor roll context instead of calling getFlag on it
+ok 9 - ignores non-Actor roll context instead of calling getFlag on it
+  ---
+  duration_ms: 2.059355
+  type: 'test'
+  ...
+# Subtest: applies one primed skill bonus through the D&D 5.3 process configuration
+ok 10 - applies one primed skill bonus through the D&D 5.3 process configuration
+  ---
+  duration_ms: 3.668743
+  type: 'test'
+  ...
+# Subtest: does not consume a skill bonus on a different skill
+ok 11 - does not consume a skill bonus on a different skill
+  ---
+  duration_ms: 1.076565
+  type: 'test'
+  ...
+# Subtest: applies a primed saving-throw bonus from config.subject
+ok 12 - applies a primed saving-throw bonus from config.subject
+  ---
+  duration_ms: 0.81152
+  type: 'test'
+  ...
+# Subtest: adds the bonus to every configured roll without duplicate insertion
+ok 13 - adds the bonus to every configured roll without duplicate insertion
+  ---
+  duration_ms: 0.825724
+  type: 'test'
+  ...
+# Subtest: guards the same roll process against duplicate primed application
+ok 14 - guards the same roll process against duplicate primed application
+  ---
+  duration_ms: 0.960618
+  type: 'test'
+  ...
+# Subtest: D&D 5.3 roll hooks use the process-configuration contract
+ok 15 - D&D 5.3 roll hooks use the process-configuration contract
+  ---
+  duration_ms: 1.657582
+  type: 'test'
+  ...
+# Subtest: D&D hooks live only in the integration
+ok 16 - D&D hooks live only in the integration
+  ---
+  duration_ms: 0.360799
+  type: 'test'
+  ...
+# Subtest: integration avoids deprecated v13 global FilePicker and private APIs
+ok 17 - integration avoids deprecated v13 global FilePicker and private APIs
+  ---
+  duration_ms: 0.613039
+  type: 'test'
+  ...
+# Subtest: short-rest recovery uses the D&D 5.3 RestResult hit-die delta contract
+ok 18 - short-rest recovery uses the D&D 5.3 RestResult hit-die delta contract
+  ---
+  duration_ms: 0.410108
+  type: 'test'
+  ...
+# Subtest: async hook work is rejection-safe
+ok 19 - async hook work is rejection-safe
+  ---
+  duration_ms: 0.39383
+  type: 'test'
+  ...
+# Subtest: roll bonus helper never invokes getFlag through optional chaining on arbitrary hook arguments
+ok 20 - roll bonus helper never invokes getFlag through optional chaining on arbitrary hook arguments
+  ---
+  duration_ms: 0.29022
+  type: 'test'
+  ...
+1..20
+# tests 20
+# suites 0
+# pass 20
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 393.899175

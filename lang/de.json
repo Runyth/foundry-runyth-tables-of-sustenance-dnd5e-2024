@@ -1,0 +1,14 @@
+{
+  "runyth-tables-of-sustenance-dnd5e-2024": {
+    "Errors": {
+      "WrongSystem": "Tables of Sustenance - D&D 5e 2024 kann nur in einer D&D-Fifth-Edition-Welt ausgeführt werden.",
+      "CoreMissing": "Tables of Sustenance Core v1.1.0 oder neuer wird benötigt.",
+      "NotContextual": "Dieser dauerhafte Nahrungsvorteil wirkt automatisch oder passiv und muss nicht vorgemerkt werden."
+    },
+    "Benefits": {
+      "Applied": "+{bonus} von {name} wurde auf diesen Wurf angewendet.",
+      "RestHealingApplied": "{actor} erhält während der Kurzen Rast durch legendäre Nahrung {amount} zusätzlichen Trefferpunkt zurück.",
+      "FallbackName": "Nahrungsvorteil"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+intent_kind,occurrences,dnd5e_mapping,scope_note
+check-bonus,126,system.skills.<skill>.bonuses.check,D&D skill mapping
+concentration-test-bonus,1,system.attributes.concentration.bonuses.save,Concentration save
+contextual-check-bonus,2,primed dnd5e.preRollSkill via config.subject,One qualifying skill check
+contextual-resistance-test-bonus,5,primed dnd5e.preRollSavingThrow via config.subject,One qualifying save
+damage-resistance,5,system.traits.dr.value,Damage resistance set
+ignore-difficult-terrain,1,system.attributes.movement.ignoredDifficultTerrain,Terrain set
+maximum-vitality-bonus,2,system.attributes.hp.tempmax,Persistent Tier S Active Effect
+movement-speed-bonus,3,system.attributes.movement.bonus or .swim,Movement
+movement-speed-match,1,system.attributes.movement.swim = @attributes.movement.walk,Swim match
+resistance-test-bonus,14,system.abilities.<ability>.bonuses.save,D&D ability save mapping
+rest-recovery-bonus,1,dnd5e.restCompleted + result.dhd/deltas.hitDice,Short Rest with spent Hit Dice
