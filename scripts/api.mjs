@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 Daniel Braniewski. See the LICENSE file for rights and obligations.
 import { adapter, registerIntentHandler, supportedIntentKinds, unregisterIntentHandler } from "./adapter.mjs";
 import { API_VERSION, CORE_ID, MODULE_ID } from "./constants.mjs";
 
