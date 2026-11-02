@@ -54,9 +54,11 @@
     }
   ],
   "socket": false,
-  "manifest": "",
-  "download": "",
+  "manifest": "https://github.com/Runyth/foundry-runyth-tables-of-sustenance-dnd5e-2024/releases/latest/download/module.json",
+  "download": "https://github.com/Runyth/foundry-runyth-tables-of-sustenance-dnd5e-2024/releases/download/v1.0.1/runyth-tables-of-sustenance-dnd5e-2024-v1.0.1-mod.zip",
   "license": "LICENSE",
   "readme": "README.md",
-  "bugs": ""
+  "bugs": "",
+  "url": "https://github.com/Runyth/foundry-runyth-tables-of-sustenance-dnd5e-2024",
+  "changelog": "CHANGELOG.md"
 }
