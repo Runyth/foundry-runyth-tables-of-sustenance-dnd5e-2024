@@ -4,6 +4,8 @@
 
 ### 1.0.1 — 2026-08-12
 
+- First publication as a Runyth module: `runyth-tables-of-sustenance-dnd5e-2024` / **Runyth Tables of Sustenance - D&D 5e 2024** with the publication standard in place — deterministic `-mod`, `-src`, and `-doc` archives with per-version checksums, byte-identical rebuild verification, standard quality and release pipelines, the full GNU AGPL-3.0-or-later licence with the standard source notice, the standard README licence chapter, and the manifest URL surfaces.
+
 - Fixed repeated `skill bonus failed` errors during D&D 5e 5.3.x skill rolls.
 - Corrected contextual roll hooks to the D&D 5.3.x process signature `(config, dialog, message)`; Actor resolution now uses `config.subject` rather than treating the first hook argument as an Actor.
 - Corrected contextual saving-throw priming from obsolete `dnd5e.preRollAbilitySave` to the D&D 5.3.x `dnd5e.preRollSavingThrow` hook.
