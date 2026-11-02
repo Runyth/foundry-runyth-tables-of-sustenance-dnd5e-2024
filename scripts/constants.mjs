@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 Daniel Braniewski. See the LICENSE file for rights and obligations.
 export const MODULE_ID = "runyth-tables-of-sustenance-dnd5e-2024";
 export const MODULE_TITLE = "Runyth Tables of Sustenance - D&D 5e 2024";
 export const MODULE_VERSION = "1.0.1";

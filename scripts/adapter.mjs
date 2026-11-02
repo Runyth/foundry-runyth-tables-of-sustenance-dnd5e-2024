@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 Daniel Braniewski. See the LICENSE file for rights and obligations.
 import { CORE_FLAG_SCOPE, CORE_ID, FLAG_SCOPE, MODULE_ID, MODULE_VERSION } from "./constants.mjs";
 
 const SKILLS = Object.freeze({
