@@ -2,10 +2,11 @@
   "id": "runyth-tables-of-sustenance-dnd5e-2024",
   "title": "Runyth Tables of Sustenance - D&D 5e 2024",
   "description": "D&D 5e 2024 system implementation for the system-neutral Runyth Tables of Sustenance core module.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     {
-      "name": "Runyth"
+      "name": "Runyth",
+      "url": "https://github.com/Runyth"
     }
   ],
   "compatibility": {
@@ -55,7 +56,7 @@
   ],
   "socket": false,
   "manifest": "https://github.com/Runyth/foundry-runyth-tables-of-sustenance-dnd5e-2024/releases/latest/download/module.json",
-  "download": "https://github.com/Runyth/foundry-runyth-tables-of-sustenance-dnd5e-2024/releases/download/v1.0.1/runyth-tables-of-sustenance-dnd5e-2024-v1.0.1-mod.zip",
+  "download": "https://github.com/Runyth/foundry-runyth-tables-of-sustenance-dnd5e-2024/releases/download/v1.0.2/runyth-tables-of-sustenance-dnd5e-2024-v1.0.2-mod.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "bugs": "",
