@@ -1,16 +1,6 @@
-# runyth-tables-of-sustenance-dnd5e-2024-1.0.1
+# Changelog
 
-## Changelog
-
-### 1.0.2 - 2026-11-03
-
-### Fixed and improved
-
-- AGENTS.md conformance release: the manifest author carries the standard organisational URL, and the README states the CC BY-SA 4.0 content licence for the materialised gameplay content. No runtime behaviour relationship or dependency change.
-
-## 1.0.2 - 2026-11-03
-
-### Fixed and improved
+## 1.0.2 — 2026-11-03
 
 - AGENTS.md conformance release: the manifest author carries the standard organisational URL, and the README states the CC BY-SA 4.0 content licence for the materialised gameplay content. No runtime behaviour relationship or dependency change.
 
@@ -29,7 +19,7 @@
 - Expanded automated regression coverage for native D&D 5.3.x and Midi-QOL-shaped roll contexts.
 - Retained Foundry v13.347–13.351, dnd5e 5.3.0–5.3.3, core >=1.1.0 and companion API 1.0.0 compatibility.
 
-### 1.0.0 — 2026-08-09
+## 1.0.0 — 2026-08-09
 
 - New complementary D&D 5e 2024 module extracted from the former monolithic core.
 - Materialises all 335 core foods as valid D&D consumable Items.
