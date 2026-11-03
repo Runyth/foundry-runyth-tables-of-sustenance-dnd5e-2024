@@ -27,6 +27,10 @@ All 335 foods are implemented because ordinary food still requires a valid D&D I
 
 Repository default branch: `master`.
 
+## Content licence
+
+Gameplay and homebrew content materialised by this module — D&D 5e 2024 Item representations, serving storage and effect mappings for the core catalogue — is **CC BY-SA 4.0**. The program source is **AGPL-3.0-or-later**; see the standard licence chapter below.
+
 ## Licence
 
 Copyright © 2026  [Daniel Braniewski](https://brani.dev/)

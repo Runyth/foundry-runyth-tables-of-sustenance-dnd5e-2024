@@ -20,6 +20,8 @@ test("manifest identity", () => {
   assert.equal(manifest.title, "Runyth Tables of Sustenance - D&D 5e 2024");
   assert.equal(manifest.authors.length, 1);
   assert.equal(manifest.authors[0].name, "Runyth");
+  assert.equal(manifest.authors[0].url, "https://github.com/Runyth");
+  assert.equal(manifest.authors[0].url, "https://github.com/Runyth");
 });
 
 test("manifest URL surfaces", () => {
